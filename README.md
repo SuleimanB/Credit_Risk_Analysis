@@ -38,3 +38,5 @@ Last but not least, the Ensemble AdaBoost Classifier model has the highest balan
 
 Summary:
 As we can see, these models for the most part had their pros and cons based on the scores and reports that were generated but overall it is easy to recommend to Jill that a great model to start with is the Easy Ensemble AdaBoost Classifier one and see how it performs with more data available and applied to it.
+
+(Screenshots saved as local file displays appropriately. Unaware if screenshots are able to display through GitHub through links)
